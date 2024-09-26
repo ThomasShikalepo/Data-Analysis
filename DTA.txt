@@ -1,0 +1,33 @@
+Problem Statement:
+
+The dataset "StudentPerformanceFactors.csv" is collected to analyze the factors that influence a student's performance. The primary objective is to identify the key determinants of student success, thereby enabling educators to develop targeted interventions to improve academic outcomes. By examining the relationships between various factors, educators can create more effective learning environments, allocate resources more efficiently, and ultimately enhance student achievement.
+
+Column Explanation and Data Types:
+
+Here's a breakdown of each column in the dataset, along with their corresponding data types:
+
+1. Student ID (Integer) A unique identifier for each student in the dataset.
+
+2. Gender (Categorical) The student's gender, represented as either "Male" or "Female".
+
+3. Age (Integer) The student's age in years.
+
+4. Parental Education Level (Categorical) The highest level of education attained by the student's parents, categorized as: * "High School" * "College" * "Graduate Degree" * "Other"
+
+5. Family Income (Float) The student's family income, represented in a numerical format (e.g., 50000.0).
+
+6. Hours Studied per Week (Integer) The average number of hours the student dedicates to studying per week.
+
+7. Attendance Rate (Float) The student's attendance rate, represented as a decimal value between 0 and 1 (e.g., 0.8).
+
+8. Math Score (Integer) The student's score in mathematics, ranging from 0 to 100.
+
+9. Reading Score (Integer) The student's score in reading, ranging from 0 to 100.
+
+10. Writing Score (Integer) The student's score in writing, ranging from 0 to 100.
+
+11. Overall GPA (Float) The student's overall grade point average, represented as a decimal value between 0 and 4.0 (e.g., 3.2).
+
+12. Special Education (Boolean) A flag indicating whether the student receives special education services (True or False).
+
+13. English Language Learner (Boolean) A flag indicating whether the student is an English language learner (True or False).
